@@ -37,12 +37,28 @@ abc Results::
         POST-SYNTHESIS AND OPENLANE FLOW
     </summary>
    
-##Synthesis :
+## Synthesis :
    
 ![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/c9093599-43dc-413d-88f9-b038f14f193b)
 
 ## Floorplan :
 
    ![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/e2ff6f58-ad90-4801-b21d-9818ae75d236)
+
+
+   ```
+    cd /home/dinesh/OpenLane/designs/float_comp/runs/RUN_2023.11.04_12.13.55/results/floorplan         
+    magic -T /home/dinesh/sky130/sky130.tech lef read /home/dinesh/OpenLane/designs/float_comp/runs/RUN_2023.11.04_12.13.55/tmp/merged.nom.lef def read float_comp.def &
+```
+   
+   ![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/25090887-e894-45b9-80bf-98d9f3229281)
+
+## Placement :
+
+![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/b2aeb25d-ce08-4f63-a0f5-4331ed8d5286)
+
+```
+
+```
 
 </details>
