@@ -36,4 +36,10 @@ abc Results::
     <summary>
         POST-SYNTHESIS AND OPENLANE FLOW
     </summary>
+### Synthesis :
+![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/c9093599-43dc-413d-88f9-b038f14f193b)
+
+### Floorplan :
+   ![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/e2ff6f58-ad90-4801-b21d-9818ae75d236)
+
 </details>
