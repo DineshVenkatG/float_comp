@@ -58,7 +58,19 @@ abc Results::
 ![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/b2aeb25d-ce08-4f63-a0f5-4331ed8d5286)
 
 ```
-
+cd /home/dinesh/OpenLane/designs/float_comp/runs/RUN_2023.11.04_12.13.55/results/placement
+magic -T /home/dinesh/sky130/sky130.tech lef read /home/dinesh/OpenLane/designs/float_comp/runs/RUN_2023.11.04_12.13.55/tmp/merged.nom.lef def read float_comp.def &
 ```
+
+![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/c62e6122-8cbc-473a-a371-c28f6b60bc2f)
+
+## Clock Tree Synthesis :
+
+![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/106e0355-3c7b-4517-85e3-728e0c4b32d2)
+
+## Power Domain Network :
+
+![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/ee1503d7-6f47-4589-beb8-86f4f2052e2e)
+
 
 </details>
