@@ -1,5 +1,9 @@
 # float_comp
 
+<details>
+   <summary>GLS </summary>
+
+
 ## Pre-Synthesis:
 ![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/20b6fbc9-373b-4aab-9cc4-fecaf7d5cee5)
 
@@ -25,3 +29,11 @@ abc Results::
 
 
 ![image](https://github.com/DineshVenkatG/float_comp/assets/99543009/1552cca1-1758-4f3b-98e7-4b3f0b5b643c)
+
+</details>
+
+<details>
+    <summary>
+        POST-SYNTHESIS AND OPENLANE FLOW
+    </summary>
+</details>
